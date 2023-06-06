@@ -1,7 +1,7 @@
 # Book settings
 # Learn more at https://jupyterbook.org/customize/config.html
 
-title: https://dervinism.github.io
+title: Title
 author: Martynas Dervinis
 
 # Force re-execution of notebooks on each build.
