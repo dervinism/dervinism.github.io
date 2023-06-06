@@ -1,3 +1,4 @@
+header { display: none !important;}
 .bd-sidebar-primary { display: none !important;}
 .bd-header-article { display: none !important;}
 .bd-container .bd-container__inner { display: block !important;}
