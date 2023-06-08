@@ -1,5 +1,5 @@
 $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$
-<span style="font-size:19px">
+<span style="font-size:19px" align="right">
 [Current research](research-current)
 $~~~$
 [Past research](research-past)
@@ -26,7 +26,8 @@ Martynas Dervinis, PhD
 </span>
 
 <span style="font-size:19px"> 
-Neuroscientist at the Petersen Lab, University of Copenhagen
+<p style="margin-bottom: 19px;">
+Neuroscientist at the Petersen Lab, University of Copenhagen </p>
 </span>
 
 <span style="font-size:19px"> 
