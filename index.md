@@ -1,4 +1,4 @@
-$~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$
+$~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$
 <span style="font-size:19px" align="right">
 [Current research](research-current)
 $~~~$
@@ -27,12 +27,11 @@ Martynas Dervinis, PhD
 
 <span style="font-size:19px"> 
 <p style="margin-bottom:19px;">
-&nbsp;Neuroscientist at the Petersen Lab, University of Copenhagen </p>
+Neuroscientist at the Petersen Lab, University of Copenhagen </p>
 </span>
 
 <span style="font-size:19px">
-&nbsp;Interests: Cortical function, neurophysiological rhythms,<br>
-&nbsp;epilepsy, data management
+Interests: Cortical function, neurophysiological rhythms, epilepsy, data management
 </span>
 
 <p> &nbsp; </p>
