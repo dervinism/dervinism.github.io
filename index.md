@@ -13,7 +13,6 @@ $~~~$
 
 <p> &nbsp; </p>
 <p> &nbsp; </p>
-<p> &nbsp; </p>
 
 ```{image} /assets/images/profile_photo_absalon_circle.jpg
 :name: fig-profile-photo
