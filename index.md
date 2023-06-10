@@ -8,7 +8,7 @@ $~~~$
 $~~~$
 [Publications](https://scholar.google.com/citations?hl=en&user=ytnJHrYAAAAJ&view_op=list_works&sortby=pubdate)
 $~~~$
-[CV](https://drive.google.com/file/d/1EvK2wo1A4CLauAOC3o7kHoNfWuGFGZH0/view?usp=sharing)
+[CV](https://drive.google.com/file/d/1EvK2wo1A4CLauAOC3o7kHoNfWuGFGZH0/view?usp=drive_link)
 </span>
 <p> &nbsp; </p>
 <p> &nbsp; </p>
