@@ -25,7 +25,7 @@ Martynas Dervinis, PhD
 
 <span style="font-size:19px"> 
 <p style="margin-bottom:19px;">
-Neuroscientist at the Petersen Lab, University of Copenhagen </p>
+Neuroscientist at Petersen Lab, University of Copenhagen </p>
 </span>
 
 <span style="font-size:19px">
@@ -56,7 +56,7 @@ After spending 16 years in the UK, I have relocated to the beautiful Danish city
 
 At the outset of the project, I am going to carry out dual simultaneous extracellular electrode recordings in the hippocampus (the banana-shaped brain structure shown in the image on the left) and the medial septum (the smaller brain structure in the same image) while the animal is navigating through mazes of various spatial arrangements (the image on the right), freely moving in its cage, or sleeping. We, as a lab, are aiming to build a cell-type database detailing response fields, electrophysiological properties, and neural activity dynamics of medial septal neurons in relation to the hippocampal theta rhythm. In the later stage of the project, I am hoping to probe the role that different medial septal cell type populations play in generation and anatomical spread of theta waves across both the medial septum and the hippocampus using optogenetic techniques.
 
-This work should deepen our knowledge about an under-researched and enigmatic brain area that is medial septum. This area is thought to generate the hippocampal theta rhythm. Therefore, the insights gained during this project should further our understanding of the information processing function of this fundamental brain rhythm, that is so critical for human and animal cognition and intelligence.
+This work should deepen our knowledge about an under-researched and enigmatic brain area that is medial septum. This area is thought to generate the hippocampal theta rhythm. Therefore, the insights gained during this project should further our understanding of the information processing function of this fundamental brain rhythm, that is so critical to human and animal cognition and intelligence.
 <p> &nbsp; </p>
 <p> &nbsp; </p>
 
