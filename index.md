@@ -29,7 +29,7 @@ Neuroscientist at Petersen Lab, University of Copenhagen </p>
 </span>
 
 <span style="font-size:19px">
-Interests: Cortical function, neurophysiological rhythms, epilepsy, data management and open science
+Interests: Cortical function, brain rhythms, epilepsy, open science, and neuroscience-informed AI
 </span>
 <p> &nbsp; </p>
 <p> &nbsp; </p>
