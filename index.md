@@ -19,17 +19,19 @@ $~~~$
 :align: left
 ```
 
-<span style="font-weight:350;font-size:52px"> 
-Martynas Dervinis, PhD
-</span>
+%<span style="font-weight:350;font-size:52px"> 
+%Martynas Dervinis, PhD
+%</span>
+# Martynas Dervinis, PhD
 
 <span style="font-size:19px"> 
 <p style="margin-bottom:19px;">
-Neuroscientist at Petersen Lab, University of Copenhagen </p>
+&thinsp;Neuroscientist at Petersen Lab, University of Copenhagen </p>
 </span>
 
 <span style="font-size:19px">
-Interests: Cortical function, brain rhythms, epilepsy, data management, open science, and neuroscience-informed AI
+&thinsp;Interests: Cortical function, brain rhythms, epilepsy, data <br>
+&thinsp;management, open science, and neuroscience-informed AI
 </span>
 <p> &nbsp; </p>
 <p> &nbsp; </p>
